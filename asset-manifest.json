@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/diplomarbeit/static/css/main.f75ea825.css",
+    "main.js": "/diplomarbeit/static/js/main.7a944e25.js",
+    "static/media/Sale_img.png": "/diplomarbeit/static/media/Sale_img.54575272f760e26c4b22.png",
+    "static/media/PageNotFound.png": "/diplomarbeit/static/media/PageNotFound.2377b58d882efe65eb46.png",
+    "static/media/gnome.png": "/diplomarbeit/static/media/gnome.d7aeb6a7be57f95972d3.png",
+    "index.html": "/diplomarbeit/index.html",
+    "main.f75ea825.css.map": "/diplomarbeit/static/css/main.f75ea825.css.map",
+    "main.7a944e25.js.map": "/diplomarbeit/static/js/main.7a944e25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f75ea825.css",
+    "static/js/main.7a944e25.js"
+  ]
+}
