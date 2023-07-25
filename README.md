@@ -22,3 +22,6 @@ Danach startet der Server in der Konsole und Sie können mit dem starten der Rea
 Die Website ist aktiv und betriebsbereit - viel Spaß beim Durchsuchen der Website-Komponenten. 
  
 -- TEL-RAN: IT-SCHULE IN DEUTSCHLAND (Jan Prysowecki) --
+_________________________________________________________________________________
+
+For start git hub pages you must start your server in 3333 port 
